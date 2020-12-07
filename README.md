@@ -1,15 +1,15 @@
 ## Updated Portfolio
 
-#### https://github.com/joolyen/Updated-Portfolio
-#### https://joolyen.github.io/Updated-Portfolio/
+#### https://github.com/joolyen/Updated-Portfolio-2
+#### https://joolyen.github.io/Updated-Portfolio-2/
 
 ## Description
-A professional portfolio page that links to key network information.
+An updated professional portfolio page that links to key network information.
 
 ## Technologies Used: 
 HTML, CSS, and bootstrap
 
-![demo GIF](./Assets/img/portfolio.gif)
+![screenshot](./Assets/img/portfolio.png)
 
 ## Contact Info:
 joolyen@gmail.com
